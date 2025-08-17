@@ -1,2 +1,2 @@
 # BMWCloud
-BMWCloud的资源存储库
+BMWClient的资源存储库
