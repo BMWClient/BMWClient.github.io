@@ -14,7 +14,7 @@
   {
     "setting_id": "bmwclient",
     "name": "bmwclient",
-    "server_address": "bmwclient",
+    "server_address": "play.bjd-mc.com",
     "branch": "nextgen",
     "setting_type": "Rage",
     "description": "Config from https://github.com/BMWClient/BMWClient.github.io",
